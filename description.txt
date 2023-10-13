@@ -1,7 +1,7 @@
 Problem Details
 ===============
 
-A major commercial insurance company (InsureCo) insures a number of companies 
+Insurance company insures a number of companies 
 against property damage from adverse events. The companies and the type and 
 location of the covered events are listed in deals.csv. To limit their exposure 
 to potential losses, they decide to buy a reinsurance contract, covering them 
